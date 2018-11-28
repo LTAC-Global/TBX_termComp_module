@@ -3,7 +3,7 @@
     xmlns="http://relaxng.org/ns/structure/1.0"
     xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
     datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" 
-    ns="urn:iso:std:iso:30042:termComp:ed:3.0">
+    ns="urn:iso:std:iso:30042:termComp:ed-2">
     
     <define name="idlang.attributes">
         <ref name="id.attributes"/>
